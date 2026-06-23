@@ -10,19 +10,16 @@ The project aims to integrate parametric CAD generation, Design of Experiments (
 
 This project was created to explore automated engineering workflows by combining parametric CAD generation, Design of Experiments (DOE), CFD, and machine learning using open-source tools.
 
-##Workflow
+## Workflow
 
-Input Parameters
-↓
-DOE
-↓
-FreeCAD
-↓
-CFD
-↓
-ML
-↓
-Web Tool
+1. Define Parameter Ranges
+2. Generate DOE Samples
+3. Create Parametric Venturi Geometries
+4. Generate Meshes
+5. Run CFD Simulations
+6. Extract Performance Metrics
+7. Train ML Surrogate Model
+8. Deploy Interactive Prediction Tool
 
 ## Project Objectives
 
