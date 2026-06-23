@@ -6,6 +6,24 @@ VenturiFlowLab is an open-source engineering project focused on developing an au
 
 The project aims to integrate parametric CAD generation, Design of Experiments (DOE), CFD automation, and machine learning into a single reproducible workflow using open-source tools.
 
+## Motivation
+
+This project was created to explore automated engineering workflows by combining parametric CAD generation, Design of Experiments (DOE), CFD, and machine learning using open-source tools.
+
+##Workflow
+
+Input Parameters
+↓
+DOE
+↓
+FreeCAD
+↓
+CFD
+↓
+ML
+↓
+Web Tool
+
 ## Project Objectives
 
 * Develop a parametric Venturi model in FreeCAD
@@ -14,6 +32,19 @@ The project aims to integrate parametric CAD generation, Design of Experiments (
 * Establish a validated CFD workflow
 * Create datasets for machine learning applications
 * Develop surrogate models for rapid performance prediction
+
+## Progress
+
+- [x] Repository Setup
+- [x] Project Roadmap
+- [ ] Methodology Definition
+- [ ] Parametric Venturi Model
+- [ ] Automated Geometry Generation
+- [ ] Mesh Independence Study
+- [ ] CFD Automation
+- [ ] Dataset Generation
+- [ ] Machine Learning Model
+- [ ] Interactive Web Tool
 
 ## Current Development
 
@@ -42,7 +73,7 @@ The project aims to integrate parametric CAD generation, Design of Experiments (
   
 ## Planned Technologies
 
--Gmsh
+- Gmsh
 - Elmer
 - Scikit-learn
 
@@ -56,10 +87,6 @@ models/     -> CAD and simulation models
 results/    -> Generated outputs and results
 images/     -> Figures and project visuals
 ```
-
-## Motivation
-
-This project was created to explore automated engineering workflows by combining parametric CAD generation, Design of Experiments (DOE), CFD, and machine learning using open-source tools.
 
 ## Status
 
