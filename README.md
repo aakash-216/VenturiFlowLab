@@ -35,8 +35,8 @@ This project was created to explore automated engineering workflows by combining
 - [x] Repository Setup
 - [x] Project Roadmap
 - [ ] Methodology Definition
-- [ ] Parametric Venturi Model
-- [ ] Automated Geometry Generation
+- [x] Parametric Venturi Model
+- [x] Automated Geometry Generation
 - [ ] Mesh Independence Study
 - [ ] CFD Automation
 - [ ] Dataset Generation
